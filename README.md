@@ -204,4 +204,9 @@ services:
 
 ## 📝 License
 
-MIT License © 2024 [DhruvJ2k4](https://github.com/DhruvJ2k4)
+MIT License © 2024
+
+## ✍️ Authors
+[Varun Selvakumar](https://github.com/VARUNSELVAKUMAR)
+[Dhruv Kalpesh Jadav](https://github.com/DhruvJ2k4)
+[Karan Bihani](https://github.com/karanbihani)
