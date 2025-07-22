@@ -52,6 +52,15 @@ Happy.me-Chatbot/
 │   └── public/
 ```
 
+## Tech Stack
+
+| Layer    | Stack                                                     |
+|----------|-----------------------------------------------------------|
+| Frontend | Next.js, TypeScript, Tailwind CSS                         |
+| Backend  | FastAPI (Python), SQLite/PostgreSQL                       |
+| AI Model | GPT‑4 or Gemini Pro (via API)                             |
+| ML Model | CNN‑based emotion detection using OpenCV                  |
+| Export   | ReportLab, python‑docx for file export                    |
 ---
 
 ## ⚙️ Installation
