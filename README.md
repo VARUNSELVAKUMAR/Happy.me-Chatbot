@@ -46,10 +46,10 @@ Happy.me-Chatbot/
 │       ├── auth/
 │       └── models/
 ├── frontend/
-│   ├── pages/
-│   ├── components/
-│   ├── hooks/
-│   └── public/
+    ├── pages/
+    ├── components/
+    ├── hooks/
+    └── public/
 ```
 
 ## Tech Stack
