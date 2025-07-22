@@ -45,7 +45,7 @@ Happy.me-Chatbot/
 │       ├── export/
 │       ├── auth/
 │       └── models/
-├── frontend/
+└── frontend/
     ├── pages/
     ├── components/
     ├── hooks/
